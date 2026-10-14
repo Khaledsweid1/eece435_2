@@ -1,0 +1,25 @@
+{
+  "info": {
+    "name": "try it",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "api call",
+      "request": {
+        "method": "POST",
+        "url": "http://localhost:8766/api/getEverything",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"title\":\"test\"}"
+        }
+      }
+    }
+  ]
+}

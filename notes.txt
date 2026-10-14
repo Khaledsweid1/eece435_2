@@ -1,0 +1,5 @@
+API documentation: check the Python file.
+The project uses a DB, but there is no schema diagram.
+We all worked on everything.
+Need to remember the Postman screenshots, tests, commit history, and references.
+AI tools were used to help but not recorded anywhere else.
